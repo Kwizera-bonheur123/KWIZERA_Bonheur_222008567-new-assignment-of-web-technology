@@ -1,5 +1,7 @@
 nav {
-    background-color: forestgreen;
+    background-color: brown;
+    height: 40px;
+    align-items: center;
     padding: 10px;
   }
   
@@ -27,9 +29,12 @@ nav {
     color: #333; /
   }
   
-  .body{
-    background-image: url("./farm/lhf-homepage-002.jpg");
-  }
+  body {
+    background-image: url("./prison/abayobozi_muri_rcs_bitabiriye_ibi_biganiro-be629-ea8f5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center; 
+}
   .body .img{
     height: 30cm;
     width: auto;
